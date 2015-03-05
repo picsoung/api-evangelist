@@ -230,7 +230,7 @@
       "FN": "Kin",
       "X-twitter": "apievangelist",
       "email": "kin@email.com",
-      "vCard":"http://staging.apis.io/vCards/testVcard.vcf"
+      "vCard":"http://apis.io/vCards/testVcard.vcf"
     }
   ]
 }
